@@ -1,2 +1,2 @@
-# Logo-Dearning
-Logo dari libraries Dearning
+# Dearning
+libraries Dearning
