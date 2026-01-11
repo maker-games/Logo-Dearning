@@ -1,2 +1,2 @@
 # Dearning
-libraries Dearning
+logos Dearning
